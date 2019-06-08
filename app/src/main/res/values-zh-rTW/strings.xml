@@ -289,6 +289,34 @@
     <string name="flash_error_invalid_zip">不是一個可刷入的ZIP檔案</string>
     <string name="flash_error_not_flashable_in_app">此檔案僅能通過恢復模式刷入</string>
     <string name="flash_error_default">%d 個錯誤</string>
+    <string name="installation_error">安裝錯誤</string>
+    <string name="installation_successful">安裝成功</string>
+    <string name="installation_successful_message">%s 已成功安裝</string>
+    <string name="installation_error_message">%1$s 安裝失敗 (%2$s)</string>
+    <string name="installation_apk_normal">一般安裝 APK</string>
+    <string name="install_load">安裝中…</string>
+    <string name="install_load_apk">安裝中 %s</string>
+
+    <string name="rovo89_summary">Xposed 的主創人員</string>
+    <string name="tungstwenty_summary">在代碼和想法方面，提供許多貢獻幫助</string>
+    <string name="dvdandroid_summary">Xposed 安裝程序的建立者</string>
+    <string name="biohazard_summary">幫助實現 Material Design</string>
+    <string name="unstable_build">這是一個不穩定的版本，安裝它需要您自擔風險。</string>
+    <string name="alt_download_method">替代下載方法</string>
+    <string name="alt_download_method_summ">如果在下載模組時遇到問題，請選取此選項</string>
+
+    <string name="known_issue_wrong_base_directory">基礎目路錯誤： %1$s</string>
+    <string name="known_issue_missing_base_directory">缺少基礎目錄</string>
+    <string name="installer_needs_update">%1$s 需要更新</string>
+
+    <string name="dexopt_now">立即優化程式</string>
+    <string name="this_may_take_a_while">將會等一段時間。</string>
+    <string name="done">完成！</string>
+    <string name="verified_boot_deactivated">啟動驗證已停用</string>
+    <string name="verified_boot_active">啟動驗證已啟用</string>
+    <string name="verified_boot_explanation">如果修改了系統分區，則啟動驗證（dm-verity）會阻止設備引導。\n<b>建議不要安裝 Xposed！</b></string>
+    <string name="ignore_chinese">忽略中文字元</string>
+    <string name="ignore_chinese_summary">隱藏下載列表中的中文模組。模組仍能被搜尋。啟用此選項可能會導致性能降低。</string>
 
     <!-- EdXp related -->
     <string name="nav_title_black_list">應用名單</string>
